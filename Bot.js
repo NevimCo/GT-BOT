@@ -100,7 +100,7 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: [Děkujeme, že jste tu s námi! Vaš GameTeam],
+      intervalMessages: ["Děkujeme, že jste tu s námi! Vaš GameTeam"],
       messageInterval: 15,
       songstats: false,
       commandLiteral: "!",
